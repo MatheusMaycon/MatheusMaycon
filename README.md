@@ -21,7 +21,7 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-  <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/617159822932049920/885018420255522816/ola.gif" width="150" height="100" />
+  <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/617159822932049920/885018420255522816/ola.gif" width="100" height="100" />
 </div>
   
 ##
