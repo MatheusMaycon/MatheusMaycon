@@ -26,7 +26,10 @@
   
 ##
   
-<div> 
+<div>   
+  <h4 align="right">Visitantes :eyes:</h4>
+<img align="right" src="https://profile-counter.glitch.me/{Matheus-Maycon}/count.svg" alt="matheusmaycon :: Visitor's Count" />
+  
   <a href="https://www.youtube.com/c/mTh_mds" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mth_mds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mth_mds" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
