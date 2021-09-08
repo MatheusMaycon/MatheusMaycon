@@ -2,7 +2,7 @@
 
 - 🔭 Atuando como Operador Técnico Jr
 - 📚 Cursando Analise e Desenvolvimento de Sistemas pela UNIP
-- 🎓 Formado em Técnico de Informática pela ETEC ABH (2018)
+- 🎓 Formado em Técnico de Informática pela ETEC ABH (2017)
 - 🕹️ Nas horas vagas faço live de diversos jogos
 
 <div>
