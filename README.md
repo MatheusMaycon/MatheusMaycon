@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Maycon 🤘🏾
 
 - 🔭 Atuando como Operador Técnico Jr
-- 📚 Analise e Desenvolvimento de Sistemas
-- 🎓 Formado Técnico em Informática (2018)
+- 📚 Cursando Analise e Desenvolvimento de Sistemas pela UNIP
+- 🎓 Formado em Técnico de Informática pela ETEC ABH (2018)
 - 🕹️ Nas horas vagas faço live de diversos jogos
 
 <div>
