@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Maycon 🤘🏾 ## <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/617159822932049920/885018420255522816/ola.gif" width="150" height="150" />
+## Olá! Eu sou o Matheus Maycon 🤘🏾 <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/617159822932049920/885018420255522816/ola.gif" width="150" height="150" />
 
 - 🔭 Atuando como Operador Técnico Jr
 - 📚 Cursando Analise e Desenvolvimento de Sistemas pela UNIP
