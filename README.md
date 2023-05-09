@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Maycon 🤘🏾 <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/617159822932049920/885018420255522816/ola.gif" width="150" height="150" />
 
-- 🔭 Atuando como Operador Técnico Jr
-- 📚 Cursando Analise e Desenvolvimento de Sistemas pela UNIP
-- 🎓 Formado em Técnico de Informática pela ETEC ABH (2017)
+- 🔭 Atuando como Servide Desk Jr
+- 📚 ADS UNIP
+- 🎓 Téc. Informática ETEC ABH (2017)
 - 🕹️ Nas horas vagas faço lives de diversos jogos
 
 <div>
