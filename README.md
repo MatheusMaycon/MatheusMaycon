@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Maycon 🤘🏾 <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/617159822932049920/885018420255522816/ola.gif" width="150" height="150" />
 
 - 🔭 Atuando como Servide Desk Jr
-- 📚 ADS UNIP
+- 📚 Redes de Computadores
 - 🎓 Téc. Informática ETEC ABH (2017)
 - 🕹️ Nas horas vagas faço lives de diversos jogos
 
@@ -29,10 +29,7 @@
 <div>   
   <h4 align="right">Visitantes :eyes:</h4>
 <img align="right" src="https://profile-counter.glitch.me/{Matheus-Maycon}/count.svg" alt="matheusmaycon :: Visitor's Count" />
-  
-  <a href="https://www.youtube.com/c/mTh_mds" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/mth_mds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mth_mds" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
   <a href = "mailto:matheusmaycon1015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-maycon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
